@@ -1,0 +1,70 @@
+/* ----------------- */
+/* --RESET STYLES--- */
+/* ----------------- */
+@import url(reset.css);
+
+/* --Header-- */
+
+.title {
+  color: red;
+}
+.text {
+}
+.text > p {
+  color: gray;
+}
+.img {
+}
+.nav {
+}
+.nav > * {
+  color: blueviolet;
+}
+.nav h3 {
+  color: green;
+}
+
+/* --Main-- */
+
+.section {
+}
+.section p {
+  color: pink;
+}
+.section .sub-title {
+  color: blue;
+}
+
+.sub-title {
+  color: darkgreen;
+}
+.sub-title.sub-title-1 {
+  color: black;
+}
+.content {
+}
+.content ~ .list h4 {
+  color: blue;
+}
+.list {
+}
+.list li {
+  color: brown;
+}
+h4 {
+  color: orange;
+}
+.list ul + p {
+  color: darkred;
+}
+.sub-header {
+}
+
+/* --Footer-- */
+
+footer .text p {
+  color: black;
+}
+.link {
+  color: red;
+}
