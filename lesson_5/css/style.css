@@ -1,0 +1,93 @@
+/* ------------------------------------------------------------------ */
+/* ------------------------ Reset Style ----------------------------- */
+/* ------------------------------------------------------------------ */
+@import url(reset.css);
+
+/* ---------------------------- Fonts -------------------------------- */
+
+body {
+  font-family: 'Poppins', sans-serif;
+  max-width: 1270px;
+  margin: 0 auto;
+  padding: 15px 15px;
+}
+
+/* ------------------------------------------------------------------ */
+
+.wrapper {
+}
+.main {
+}
+.main-section-1 {
+  margin-bottom: 80px;
+}
+.main-section-2 {
+  margin-bottom: 60px;
+}
+.content {
+  max-width: 816px;
+  margin: 0 auto 80px;
+}
+.section-1-content {
+}
+.section-2-content-1 {
+}
+.section-2-content-2 {
+}
+.main-title {
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 1.6;
+  margin: 0 auto 40px 0;
+  color: rgba(33, 37, 41, 1);
+}
+.title-1 {
+  max-width: 400px;
+}
+.title-2 {
+  max-width: 605px;
+}
+.main-text {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.78;
+  color: rgba(108, 117, 125, 1);
+}
+.text-1 {
+}
+.text-2 {
+}
+.p-1 {
+  margin-bottom: 36px;
+}
+.p-2 {
+  margin-bottom: 36px;
+}
+.p-3 {
+}
+.section-1-image {
+  margin: 0 auto;
+}
+.section-2-image {
+}
+.section-2-image img {
+  max-width: 605px;
+}
+.section-2-image  > * {
+  display: inline-block;
+}
+.image-1 {
+}
+.image-1 img {
+  max-width: 1240px;
+}
+.image-2 {
+  width: 605px;
+  margin-right: 25px;
+}
+.image-3 {
+  width: 605px;
+}
+div.section-2-image {
+  margin: 0 auto 80px;
+}
